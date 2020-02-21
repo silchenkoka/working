@@ -1,0 +1,24 @@
+html, body
+{
+    position: relative;
+    background-color: white ;
+} 
+
+.fon
+{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    box-sizing: content-box;
+    position: relative;
+}
+
+.player
+{
+    
+    position: absolute;
+    margin:200px    ;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
